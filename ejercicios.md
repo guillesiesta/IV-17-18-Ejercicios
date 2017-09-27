@@ -40,6 +40,11 @@ Una vez usado el comando aparece como salida 8 veces (una por cada hebra del pro
 
 ![flags](imgs/ej3.png)
 
+#### Ejercicio 4.1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok
+#### Ejercicio 4.2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
+#### Ejercicio 5. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor
+#### Ejercicio 6. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+
 
 
 
