@@ -18,3 +18,25 @@ A los 4 años el servidor ya valdrá 0€... Ni que decir tiene que a los 7 año
 
 #### Ejercicio 2.Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
 
+Servidor dedicado (físico)
+
+[Servidor Linux Intel® Xeon® E3-1230v3](https://www.strato.es/servidor-dedicado-linux/) con el proveedor [Strato](https://www.strato.es/)
+
+![Servidor Linux Intel® Xeon® E3-1230v3](imgs/ej2A.png)
+
+Servidor virtual
+
+[Servidor Linux o CentOS](https://azure.microsoft.com/es-es/pricing/details/virtual-machines/linux/). Instancia B4MS del proveedor [Microsoft Azure](https://azure.microsoft.com/es-es/). Similares características al servidor dedicado.
+
+![Servidor Linux o CentOS](imgs/ej2B.png)
+
+
+
+
+
+
+
+
+
+
+
