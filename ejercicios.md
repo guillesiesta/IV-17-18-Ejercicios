@@ -30,7 +30,15 @@ A los 4 años el servidor ya valdrá 0€... Ni que decir tiene que a los 7 año
 
 ![Servidor Linux o CentOS](imgs/ej2B.png)
 
+#### Ejercicio 3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, [el procesador del móvil](https://stackoverflow.com/questions/26239956/how-to-get-specific-information-of-an-android-device-from-proc-cpuinfo-file)?
 
+
+Procesador Intel® Core™ i7-6700HQ (6M Cache, 2.6GHz hasta 3.5GHz)
+
+Una vez usado el comando aparece como salida 8 veces (una por cada hebra del procesador, 4 cores y 2 hebras por cada uno) los flags activos.
+
+
+![flags](imgs/ej3.png)
 
 
 
