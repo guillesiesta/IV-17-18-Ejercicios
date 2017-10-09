@@ -8,5 +8,34 @@ En este caso he hecho fork al repositorio [tdd-gdg](https://github.com/guillesie
 
 ![Funciones añadidas](imgs/S3-ej1C.png)
 
+#### Ejercicio 2. Para la aplicación que se está haciendo, escribir una serie de aserciones y probar que efectivamente no fallan. Añadir tests para una nueva funcionalidad, probar que falla y escribir el código para que no lo haga (vamos, lo que viene siendo TDD).
+
+Primero he añadido una función en la que se introduce el título de una historia y se ha testeado. 
+
+![setTitle](imgs/S3-ej2A.png)
+
+
+![test_setTitle](imgs/S3-ej2B.png)
+
+![pytest test_setTitle](imgs/S3-ej2C.png)
+
+Después he añadido la funcionalidad de que ese texto no tiene faltas de ortografía. Para lo segundo, he usado un [diccionario de Hunspell con codificación UTF-8 en Español](https://github.com/titoBouzout/Dictionaries). 
+
+![test_setTitle](imgs/S3-ej2D.png)
+
+Pruebo el test con el título que le he puesto y me da error, pues "enanito" no está reconocida en la rae.
+
+![test_setTitle](imgs/S3-ej2E.png)
+
+Corrijo el error. Sustituyo "enanitos" por "enanos", testeo y el test se pasa con éxito.
+
+![test_setTitle](imgs/S3-ej2F.png)
+
+
+
+
+ 
+
+
 
 
