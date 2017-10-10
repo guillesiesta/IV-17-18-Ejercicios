@@ -34,7 +34,12 @@ Corrijo el error. Sustituyo "enanitos" por "enanos", testeo y el test se pasa co
 
 #### Ejercicio 3. Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta. Si hasta ahora no has subido el código que has venido realizando a GitHub, es el momento de hacerlo, porque lo vas a necesitar un poco más adelante.
 
-Como estoy usando python. Usaré [Behave](http://pythonhosted.org/behave/index.html), que es lo equivalente a Mocha en python. 
+Como estoy usando python. Usaré [Behave](http://pythonhosted.org/behave/index.html), que es lo equivalente a Mocha en python. Aquí es donde se encuentran [lo necesario para usar behave](https://github.com/guillesiesta/IV-17-18-Ejercicios/tree/master/code/behave) , dónde dentro se puede ver el código de la clase [Apuesta](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/code/behave/steps/apuestas.py).
+
+Al compilar este es el resultado:
+
+
+![behave_test](imgs/S3-ej3A.png)
 
 
 
