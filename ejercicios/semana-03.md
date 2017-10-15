@@ -49,6 +49,23 @@ Creados entornos virtuales para versiones 2.7 y 3.5
 
 #### Ejercicio 5. Como ejercicio, algo ligeramente diferente: una web para calificar las empresas en las que hacen prácticas los alumnos. Las acciones serían: Crear empresa, Listar calificaciones para cada empresa, crear calificación y añadirla (comprobando que la persona no la haya añadido ya), borrar calificación (si se arrepiente o te denuncia la empresa o algo), Hacer un ránking de empresas por calificación, por ejemplo, Crear un repositorio en GitHub para la librería y crear un pequeño programa que use algunas de sus funcionalidades. Si se quiere hacer con cualquier otra aplicación, también es válido. Se trata de hacer una aplicación simple que se pueda hacer rápidamente con un generador de aplicaciones como los que incluyen diferentes marcos MVC. Si cuesta mucho trabajo, simplemente prepara una aplicación que puedas usar más adelante en el resto de los ejercicios.
 
+De momento, al no disponer de demasiado tiempo, haré un [MVC cutre]() que contenga lo justo para poder continuar haciendo los ejercicios. Cuando disponga de más tiempo crearé el repositorio pertinente y lo enlazaré aquí. Me basaré en el sistema de apuestas usado en anteriores ejercicios y no en el sistema para la gestión de empresas de las prácticas de los alumnos.
+
+#### Ejercicio 6. Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
+
+#### Ejercicio 7. Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente.
+
+Al estar usando python, el siguiente comando nos dice lo mismo que package.json en javascript.
+
+pip freeze > requirements.txt
+
+Y para instalar las dependencias se ejecuta el siguiente comando
+
+pip install -r requirements.txt
+
+#### Ejercicio 8. Automatizar con grunt, gulp u otra herramienta de gestión de tareas en Node la generación de documentación de la librería que se cree usando docco u otro sistema similar de generación de documentación. Previamente, por supuesto, habrá que documentar tal librería.
+
+#### Ejercicio 9. Haced los dos primeros pasos antes de pasar al tercero.
 
 
 
