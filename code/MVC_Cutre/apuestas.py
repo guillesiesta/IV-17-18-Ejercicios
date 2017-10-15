@@ -1,6 +1,3 @@
-from behave import *
-
-
 class Apuesta:
     """
     Clase Apuesta.
@@ -50,3 +47,16 @@ class Apuesta:
             i += 1
 
         return True
+
+    def ApuestaAcertada(self, apuesta, final):
+        i = 0
+        acierto = 0
+        while i < 3:
+            apuesta.resultado[i] == final.resultado[i]
+            acierto = acierto + 1
+            i = i + 1
+
+        if(acierto == 3):
+            return True
+        else:
+            return False

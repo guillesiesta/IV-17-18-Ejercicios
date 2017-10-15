@@ -53,6 +53,16 @@ De momento, al no disponer de demasiado tiempo, haré un [MVC cutre](https://git
 
 #### Ejercicio 6. Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
 
+Primera ejecución realizada con el environment python 2.7
+
+![python2.7](imgs/S3-ej6A.png)
+
+Segunda ejecución realizada con el environment python 3.5
+
+![python3.5](imgs/S3-ej6B.png)
+
+Funciona correctamente, aunque esto se preveía pues aún el proyecto no es demasiado grande y no hay muchas diferencias sintácticas en el código entre python 2.7 y la versión 3.5.
+
 #### Ejercicio 7. Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente.
 
 Al estar usando python, el siguiente comando nos dice lo mismo que package.json en javascript.
