@@ -75,7 +75,11 @@ pip install -r requirements.txt
 
 #### Ejercicio 8. Automatizar con grunt, gulp u otra herramienta de gestión de tareas en Node la generación de documentación de la librería que se cree usando docco u otro sistema similar de generación de documentación. Previamente, por supuesto, habrá que documentar tal librería.
 
+Al estar usando python, usaré [pybuilder](http://pybuilder.github.io/).
+
 #### Ejercicio 9. Haced los dos primeros pasos antes de pasar al tercero.
+
+Este ejercicio estará realizado en mi proyecto personal [ProjectX](https://github.com/guillesiesta/ProjectX) una vez entregado el hito 2 de la asignatura Infraestructura Virtual.
 
 
 
