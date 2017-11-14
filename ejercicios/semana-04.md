@@ -11,7 +11,7 @@ Para estos ejercicios he decidido usar mi proyecto [Project X](https://github.co
 Estas pruebas están en [tests](https://github.com/guillesiesta/ProjectX/blob/master/stories/test_storie.py).
 
 
-### TODOS LOS EJERCICIOS SIGUIENTES ESTAN REALIZADOS EN MI PROYECTO PERSONAL [PROJECT X]((https://github.com/guillesiesta/ProjectX)
+### TODOS LOS EJERCICIOS SIGUIENTES ESTAN REALIZADOS EN MI PROYECTO PERSONAL [PROJECT X](https://github.com/guillesiesta/ProjectX)
 #### Ejercicio 5. Instalar y echar a andar tu primera aplicación en Heroku.
 
 #### Ejercicio 6. Usar como base la aplicación de ejemplo de heroku y combinarla con la aplicación en node que se ha creado anteriormente. Probarla de forma local con foreman. Al final de cada modificación, los tests tendrán que funcionar correctamente; cuando se pasen los tests, se puede volver a desplegar en heroku.
