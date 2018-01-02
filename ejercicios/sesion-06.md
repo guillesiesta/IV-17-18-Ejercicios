@@ -31,4 +31,9 @@ Ejecuto el siguiente comando para crear el disco duro:
 qemu-img create -f qcow2 linuxmint.img 8G
 
 ![mint](imgs/S6-ej6A.png)
+
+Una vez descargada la imagen, la arrancamos con:
+
+qemu-system-x86_64 -hda linuxmint.img -cdrom linuxmint-18.3-cinnamon-32bit.iso
+
 ![mint](imgs/S6-ej6B.png)
